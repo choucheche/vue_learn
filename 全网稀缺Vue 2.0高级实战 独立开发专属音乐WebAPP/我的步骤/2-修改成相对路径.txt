@@ -1,0 +1,5 @@
+修改 config/index.js 代码
+将
+assetsPublicPath: '/',
+改为
+assetsPublicPath: './',

@@ -1,0 +1,13 @@
+cnpm install -g vue-cli
+
+vue init webpack vue-music
+创建名为vue-music的vue项目，自动安装好webpack配置
+选择项如图 1-安装配置vue和webpack.png
+注：如果是node 8.1用户，node 8.1用不了，需要安装最新的node.js
+
+创建好后，
+cd 到 vue-music 目录
+npm install 安装插件依赖
+安装好后，
+npm run dev
+启动服务器
